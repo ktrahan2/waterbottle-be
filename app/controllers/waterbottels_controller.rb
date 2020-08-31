@@ -1,0 +1,2 @@
+class WaterbottelsController < ApplicationController
+end
